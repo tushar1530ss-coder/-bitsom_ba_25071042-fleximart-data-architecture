@@ -2,7 +2,7 @@ ROOT README.md
 FlexiMart Data Architecture Project
 Student Name: Tushar Singh 
 Student ID: bitsom\_ba\_25071042 
-Email: tushar1507ssb@gmail.com
+Email: tushar1507ss@gmail.com
 Date: 06-Jan-2026
 Project Overview
 This project implements an end-to-end data architecture solution for FlexiMart, covering ETL processing, relational database design, NoSQL analysis, and data warehouse analytics. The solution enables both operational reporting and advanced analytical insights.
